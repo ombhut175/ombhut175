@@ -150,12 +150,7 @@ A full-featured e-commerce platform with secure authentication, admin dashboard,
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ombhut175&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ombhut175&layout=compact&theme=radical)
-
----
 
 ## 🎯 Goals for 2025
 
