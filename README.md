@@ -3,7 +3,7 @@
 ![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa200ODRoNmxsaTQ4NmM5YWhiZXQxbTYzZm5xdHcwNW0xNDVscHRlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.webp)
 
 ## 🌐 Portfolio
-🚀 **[View My Portfolio](https://portfolio-om-bhuts-projects.vercel.app/)** - See my latest projects and work in action!
+🚀 **[ombhut.me](https://ombhut.me/)** - See my latest projects and work in action!
 
 ---
 
