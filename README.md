@@ -163,4 +163,4 @@ A full-featured e-commerce platform with secure authentication, admin dashboard,
 ---
 
 > **"What you imagine, I build"** 🚀  
-> Ready to collaborate? Check out my [portfolio](https://portfolio-om-bhuts-projects.vercel.app/) or [get in touch](mailto:patelom2026@gmail.com)!
+> Ready to collaborate? Check out my [portfolio](https://ombhut.me/) or [get in touch](mailto:patelom2026@gmail.com)!
